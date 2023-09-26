@@ -43,5 +43,5 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DD75DF&height=120&section=footer"/>
 
-![Snake animation](https://github.com/MEduardaQueiroz/MEduardaQueiroz/blob/output/github-contribution-grid-snake.svg)
+
 
