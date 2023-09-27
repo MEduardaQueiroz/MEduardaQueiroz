@@ -17,10 +17,12 @@
 <h2>Estudante do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)</h2>
 
 ### Redes sociais:
-<div> 
-   <a href="https://www.instagram.com/eduardax.queirozz/" target="_blank"><img width="27px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" target="_blank"></a>&ensp;&ensp;
-<a href = "mariaeduardaqueirozlima97@gmail.com"><img src="https://icongr.am/devicon/google-original.svg?size=27&color=currentColor"></a> 
+<div>
+<a href="https://www.instagram.com/eduardax.queirozz/" target="_blank"><img width="27px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" target="_blank"></a>&ensp;&ensp;
+  
+<a href = "mariaeduardaqueirozlima97@gmail.com"><img src="https://icongr.am/devicon/google-original.svg?size=27&color=currentColor">
 </div>
+
 
 
 
