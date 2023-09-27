@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DD75DF&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DD75DF&size=30&center=true&vCenter=true&width=1000&lines=Oii!,+meu+nome+e+Eduarda+Queriroz;bem+vindo!+:%34)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DD75DF&size=30&center=true&vCenter=true&width=1000&lines=Oii!,+meu+nome+e+Eduarda+Queriroz;bem+vindo!+:%26)](https://git.io/typing-svg)
 <br>
 
 
@@ -13,11 +13,15 @@
 
 
 <br><br>
-<div align="center"> 
-    <a href="https://www.instagram.com/eduardax.queirozz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mariaeduardaqueirozlima97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<div> 
+   <a href="https://www.instagram.com/eduardax.queirozz/" target="_blank"><img width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" target="_blank"></a>&ensp;&ensp;
+<a href = "mariaeduardaqueirozlima97@gmail.com"><img src="https://icongr.am/devicon/google-original.svg?size=30&color=currentColor"></a> 
 </div>
-<br>
+
+
+<a href="https://ifce.edu.br/">
+<h2>Estudante do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)</h2>
+<br></a>
 
 
 
@@ -44,18 +48,15 @@
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
-</div>
-
-
-
-          
+</div><br>
+     
 
  
 <br>
 <div align="center">
 <br>
-<p align="center" width="30%"><img align="center" src="https://profile-counter.glitch.me/{maria eduarda}/count.svg" /></p> 
-<br></div>
+<p align="center"><img width="19%" align="center" src="https://profile-counter.glitch.me/{maria eduarda}/count.svg" /></p> 
+</div>
 
 
 
