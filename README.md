@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DD75DF&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DD75DF&size=21&center=true&vCenter=true&width=1000&lines=Oii!,+meu+nome+e+Eduarda+Queriroz;bem+vindo!+:%29)](https://git.io/typing-svg)
-<br><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DD75DF&size=21&center=true&vCenter=true&width=1000&lines=Oii!,+meu+nome+e+Eduarda+Queriroz;bem+vindo!+:%34)](https://git.io/typing-svg)
+<br>
 
 
 
@@ -49,12 +49,12 @@
 
 
           
-</div>
- <br>
-<br><br>
+
+ 
+<br>
 <div align="center">
 <br>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{maria eduarda}/count.svg" /></p> 
+<p align="center" width="30%"><img align="center" src="https://profile-counter.glitch.me/{maria eduarda}/count.svg" /></p> 
 <br></div>
 
 
