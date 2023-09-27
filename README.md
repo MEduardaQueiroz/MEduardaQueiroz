@@ -34,6 +34,20 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=14354C)&nbsp;
 ![Windows](	https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=blue)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/Microsoft_Office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=blue)&nbsp;
+
+
+
+
+
+
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+
+
           
 </div>
  <br>
@@ -45,11 +59,7 @@
 
 
 
-<div align="center">
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DD75DF&height=120&section=footer"/>
